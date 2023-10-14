@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62f8cafbb174d6b409bd643287f75442
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movementJoystick: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - fullChair: {fileID: -4671799471540477538, guid: c215ab0003de4d54ab4dd7ea5ba9aa2f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
